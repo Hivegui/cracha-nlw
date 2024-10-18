@@ -3,7 +3,7 @@ const LinksSocialMedia = {
   youtube: 'hivegui',
   facebook: 'hivegui',
   instagram: 'hivegui',
-  twitter: 'hiveguiii'
+  twitter: 'hiveguii'
 }
 
 function changeSocialMediaLinks() {
