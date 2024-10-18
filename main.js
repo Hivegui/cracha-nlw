@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'hivegui',
-  youtube: 'hivegui',
+  linkedin: 'guilhermefariasgomes',
   facebook: 'hivegui',
   instagram: 'hivegui',
   twitter: 'hiveguii'
